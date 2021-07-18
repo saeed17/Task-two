@@ -17,4 +17,4 @@ This task is about choosing the battary depending on cost, efficiency, and the f
 https://www.youtube.com/watch?v=OxrdpDPpD9Y
 https://www.youtube.com/watch?v=9kfXC9i9pgA&t=226s
 https://www.engineersgarage.com/choosing-battery-for-robots/
-  
+https://www.circuitstoday.com/lipo-battery-charger-circuit  
